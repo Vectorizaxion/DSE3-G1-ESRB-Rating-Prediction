@@ -3,3 +3,5 @@ pandas
 sklearn
 Flask
 Flask-Cors
+flask_restful
+requests
